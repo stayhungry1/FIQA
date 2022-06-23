@@ -2,7 +2,7 @@
 This repository is for the paper ["XXX"]
 
 ## Database
-The proposed FIQA database is available at this [download link](https://docs.google.com/forms/d/e/1FAIpQLSfxYeCDbTjxN1myIK3AQRKZOdGnAiOK7uVdRc2DNvOwj3IHBw/viewform?usp=sf_link).
+The proposed FIQA database is available at this [download link](https://docs.google.com).
 
 ## Reference
 
