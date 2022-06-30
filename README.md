@@ -1,5 +1,5 @@
 # FIQA
-This repository is for the paper ["Assessing Face Image Quality: A Large-scale Database and A Transformer Method"]
+This repository is for our paper.
 
 ==========================================================================================================
 
