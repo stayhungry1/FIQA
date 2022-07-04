@@ -26,6 +26,11 @@ The Procedure of the experiment to rate the subjective quality scores is shown b
 <img src="img/img1.png"/>
 </p>
 
+The Procedure of the experiment to rate the subjective quality scores is shown below.
+
+<p align="center">
+<img src="img/img1.png"/>
+</p>
 
 The database is password protected. Please send a download application email to liutie@buaa.edu.cn together with your name, affiliation and usage. Thanks a lot!
 
