@@ -14,7 +14,7 @@ Permission to use, copy, or modify this database and its documentation for educa
 
 
 ## Database
-The database is password protected. Please send a download application email to liutie@buaa.edu.cn together with your name, affiliation and usage.
+The database is password protected. Please send a download application email to liutie@buaa.edu.cn together with your name, affiliation and usage. Thanks a lot!
 
 
 ## Reference
