@@ -14,22 +14,16 @@ Permission to use, copy, or modify this database and its documentation for educa
 
 
 ## Database
-Our FIQA database is a large-scale database of face image for visual quality assessment. There is in total 20,625 face images in FIQA database, of which 625 are reference sequences in diverse content. In our FIQA database, Some examples of the distorted face images are shown in the figure below.
+Our FIQA database is a large-scale database of face image for visual quality assessment. There is in total 20,625 face images in FIQA database, of which 625 are reference sequences in diverse content. In our FIQA database, some examples of the reference face images are shown in the figure below.
+
+<p align="center">
+<img src="img/img4.png"/>
+</p>
+
+The distorted face images are shown in the figure below.
 
 <p align="center">
 <img src="img/img3.png"/>
-</p>
-
-The Procedure of the experiment to rate the subjective quality scores is shown below.
-
-<p align="center">
-<img src="img/img1.png"/>
-</p>
-
-The Procedure of the experiment to rate the subjective quality scores is shown below.
-
-<p align="center">
-<img src="img/img1.png"/>
 </p>
 
 The database is password protected. Please send a download application email to liutie@buaa.edu.cn together with your name, affiliation and usage. Thanks a lot!
