@@ -20,7 +20,7 @@ Our FIQA database is a large-scale database of face image for visual quality ass
 <img src="img/img4.png"/ width="500px">
 </p>
 
-The distorted face images are shown in the figure below.
+Some examples of the distorted face images are shown in the figure below.
 
 <p align="center">
 <img src="img/img3.png"/ width="800px">
