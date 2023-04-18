@@ -33,7 +33,10 @@ The database is password protected. Please send a download application email to 
 ## Reference
 - Z. Pan, F. Yuan, J. Lei, Y. Fang, X. Shao, and S. Kwong, “Vcrnet: Visual compensation restoration network for no-reference image quality assessment,” IEEE Transactions on Image Processing, 2022.
 - H. Zhu, L. Li, J. Wu, W. Dong, and G. Shi, “Metaiqa: Deep metalearning for no-reference image quality assessment,” in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020, pp. 14 143–14 152.
+- K. Zhang, D. Li, W. Luo, J. Liu, J. Deng, W. Liu, and S. Zafeiriou, “Edface-celeb-1 m: Benchmarking face hallucination with a million-scale dataset,”
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022.
 - H. Lin, V. Hosu, and D. Saupe, “Kadid-10k: A large-scale artificially distorted iqa database,” in 2019 Eleventh International Conference on Quality of Multimedia Experience (QoMEX). IEEE, 2019, pp. 1–3.
+
 
 ## Acknowledgement
 
