@@ -18,13 +18,13 @@ Our FIQA database is a large-scale database of face image for visual quality ass
 rich content at different distortion types in the database. In our FIQA database, some examples of the reference face images are shown in the figure below.
 
 <p align="center">
-<img src="img/img4.png"/ width="500px">
+<img src="img/img4.png"/ width="300px">
 </p>
 
 Some examples of the distorted face images are shown in the figure below.
 
 <p align="center">
-<img src="img/img3.png"/ width="800px">
+<img src="img/img3.png"/ width="1200px">
 </p>
 
 The database is password protected. Please send a download application email to liutie@buaa.edu.cn together with your name, affiliation and usage. Thanks a lot!
