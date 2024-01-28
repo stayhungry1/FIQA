@@ -17,19 +17,7 @@ Permission to use, copy, or modify this database and its documentation for educa
 Our FIQA database is a large-scale database of face images for visual quality assessment. There are in total 42,125 face images with rich content at different distortion types in the database. In our FIQA database, some examples of the distorted face images are shown in the figure below.
 
 <p align="center">
-<img src="img/img_S.png"/ width="800px">
-</p>
-
-<p align="center">
-<img src="img/img_R.png"/ width="1200px">
-</p>
-
-<p align="center">
-<img src="img/img_M.png"/ width="900px">
-</p>
-
-<p align="center">
-<img src="img/img_W.png"/ width="900px">
+<img src="img/img.png"/ width="800px">
 </p>
 
 The database is password protected. Please send a download application email to liutie@buaa.edu.cn together with your name, affiliation and usage. Thanks a lot!
