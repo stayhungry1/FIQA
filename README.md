@@ -16,7 +16,7 @@ Permission to use, copy, or modify this database and its documentation for educa
 
 3.Database
 
-Our FIQA database contains face images for visual quality assessment, which will be available. Please contact with liutie@buaa.edu.cn if you have further questions, thanks a lot!
+Our FIQA database contains face images for visual quality assessment. Part of the data in the database has passed the open source approval process which are available. Please contact with liutie@buaa.edu.cn together with your name, affiliation and usage for requiring the password of the link. If you have further questions please contact with liutie@buaa.edu.cn, thanks a lot!
 
 4.Reference
 - Z. Pan, F. Yuan, J. Lei, Y. Fang, X. Shao, and S. Kwong, “Vcrnet: Visual compensation restoration network for no-reference image quality assessment,” IEEE Transactions on Image Processing, 2022.
